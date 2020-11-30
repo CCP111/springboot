@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ccp111
+Build-Jdk: 11.0.8
+Implementation-Title: spring-boot
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.laptrinhjavaweb
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot/
+Created-By: Maven Integration for Eclipse
+
